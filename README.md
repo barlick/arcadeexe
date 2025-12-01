@@ -1,5 +1,7 @@
 This is a copy of the “Arcade.exe” MAME frontend that I wrote sometime around 2001 and last updated in 2005 (I think).
 
+![alt text](https://github.com/barlick/arcadeexe/blob/main/screenshot_of_arcade_exe.png)
+
 I have kept a copy of this on all of my various windows PCs and laptops over the years and can confirm that “Arcade.exe” works on all versions of windows from 95 to windows 11 (so that’s windows 98, windows millennium, windows 2000, windows XP, windows 7, windows 8, windows 10 and windows 11).
 
 Sadly I lost the source code some time ago due to a hard drive failure but at least the .exe still exists so I decided to put it on Github to ensure its survival which is the best I can do but obviously it’s frozen in time.
