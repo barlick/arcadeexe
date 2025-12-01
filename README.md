@@ -8,7 +8,8 @@ Sadly I lost the source code some time ago due to a hard drive failure but at le
 
 It was coded in Delphi (2005/2007 version) and originally also had a “skin designer” app which people used to create alternative “skins” but that has sadly also been lost to time.
 
-In its day it was quite popular and the now defunct website (http://www.barlicktaylorst.btinternet.co.uk/arcade1.htm) registered over 30,000 downloads. It was also made available on several emulation related websites and is still available from Zophar’s Domain (https://www.zophar.net/frontends/mame.html). So I suspect that the true number of downloads was probably much higher.
+In its day it was quite popular and the now defunct website (http://www.barlicktaylorst.btinternet.co.uk/arcade1.htm) registered over 100,000 downloads. It was also made available on several emulation related websites and is still available from Zophar’s Domain (https://www.zophar.net/frontends/mame.html). So I suspect that the true number of downloads was probably much higher.
+So it was a pretty successful project and a lot of people downloaded and used it back in the day.
 
 Fun story: Back in 2004, a friend came back from a local computer fair with a CD labelled as “Arcade Games” which he’d bought from a shady character for £5.00. He said it was “brilliant” and urged me to try it on my PC so against my better judgement I fired it up and was amazed to see it started up Arcade.exe! 
 
